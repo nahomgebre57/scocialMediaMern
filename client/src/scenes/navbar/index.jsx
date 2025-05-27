@@ -57,7 +57,7 @@ const Navbar = () => {
             },
           }}
         >
-          Nangram
+          Nahgram
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
