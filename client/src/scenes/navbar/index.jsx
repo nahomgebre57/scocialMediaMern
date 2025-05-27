@@ -56,11 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-<<<<<<< HEAD
-          Nahgram
-=======
           Nangram
->>>>>>> 0da995f (scalblity update)
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
